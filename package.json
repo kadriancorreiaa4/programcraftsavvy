@@ -1,0 +1,34 @@
+{
+  "name": "programcraftsavvy",
+  "version": "1.0.2",
+  "description": "programcraftsavvy",
+  "type": "module",
+  "main": "programcraftsavvy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kadriancorreiaa4/programcraftsavvy"
+  },
+  "website": "https://github.com/kadriancorreiaa4/programcraftsavvy.git",
+  "keywords": [
+    "programcraftsavvy"
+  ],
+  "author": "kadriancorreiaa4",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadriancorreiaa4/programcraftsavvy/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/kadriancorreiaa4/programcraftsavvy#readme",
+  "dependencies": {
+    "devscriptwhisper": "1.0.2",
+    "codescriptmentor": "1.0.2",
+    "devcodecraftsman": "1.0.2",
+    "codementorr": "1.0.2"
+  }
+}
